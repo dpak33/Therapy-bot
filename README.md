@@ -1,0 +1,3 @@
+# Therapy-bot
+
+The following therapy chat bot uses python's NLTK library to create an interactive user experience whose function is two-fold. Firstly, it will invite the user to speak for a fixed period of time and, based on NLTK's sentiment analysis package, will ascertain whether the individual is in a broadly positive, negative or neutral frame of mind. Secondly, it will hone in on the speaker's repeated employment of certain words that carry a positive or negative valence. The recording will be stored in an audio file and the user will be asked whether they want to receive a weekly email with mood boosting aphorisms and quotes. 
